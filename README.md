@@ -30,9 +30,6 @@ My name is Peter Haddad and I recently graduated with a Bachelor of Applied Scie
     <a href="https://git-scm.com/">
         <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
     </a>
-    <a href="https://github.com/">
-        <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-    </a>
     <br />
 </details>
 <details>
@@ -57,7 +54,7 @@ My name is Peter Haddad and I recently graduated with a Bachelor of Applied Scie
         <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
     </a>
     <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">
-        <img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
+        <img align="left" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" />
     </a>
     <br />
 </details>
@@ -67,7 +64,7 @@ My name is Peter Haddad and I recently graduated with a Bachelor of Applied Scie
         <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
     </a>
     <a href="https://www.vmware.com/ca.html">
-        <img align="left" alt="VMware" width="26px" src="https://aidanfinn.com/wp-content/uploads/2016/02/vmware-logo1.png" />
+        <img align="left" alt="VMware" width="26px" src="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/VMware_2018.jpg/revision/latest?cb=20190215122949" />
     </a>
     <a href="https://www.latex-project.org/">
         <img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
