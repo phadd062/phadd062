@@ -46,6 +46,9 @@ My name is Peter Haddad and I recently graduated with a Bachelor of Applied Scie
     <a href="https://angular.io/">
         <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
     </a>
+    <a href="https://getbootstrap.com/">
+        <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+    </a>
     <br />
 </details>
 <details>
