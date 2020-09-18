@@ -33,7 +33,7 @@ My name is Peter Haddad and I recently graduated with a Bachelor of Applied Scie
     <br />
 </details>
 <details>
-  <summary>💻: Web Dev</summary>
+  <summary>:computer: Web Dev</summary>
     <a href="https://en.wikipedia.org/wiki/HTML5">
         <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     </a>
@@ -49,7 +49,7 @@ My name is Peter Haddad and I recently graduated with a Bachelor of Applied Scie
     <br />
 </details>
 <details>
-  <summary>💻: Operating Systems</summary>
+  <summary>:desktop_computer: Operating Systems</summary>
     <a href="https://www.linux.org/">
         <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
     </a>
@@ -59,7 +59,7 @@ My name is Peter Haddad and I recently graduated with a Bachelor of Applied Scie
     <br />
 </details>
 <details>
-  <summary>🛠️: Tools</summary>
+  <summary>:hammer_and_wrench: Tools</summary>
     <a href="https://www.vim.org/">
         <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
     </a>
