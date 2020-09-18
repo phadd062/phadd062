@@ -53,7 +53,7 @@ My name is Peter Haddad and I recently graduated with a Bachelor of Applied Scie
     <a href="https://www.linux.org/">
         <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
     </a>
-    <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">
+    <a href="https://www.microsoft.com/en-ca/windows">
         <img align="left" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" />
     </a>
     <br />
