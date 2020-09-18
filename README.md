@@ -75,6 +75,8 @@ My name is Peter Haddad and I recently graduated with a Bachelor of Applied Scie
     <br />
 </details>
 
+---
+
 <a href="https://github.com/phadd062?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phadd062&show_icons=true&include_all_commits=true"/>
 </a>
