@@ -11,10 +11,6 @@
 
 My name is Peter Haddad and I recently graduated with a Bachelor of Applied Science - BASc in Computer Engineering from the University of Ottawa.
 
-- 🔭 I’m currently working on an [Angular Application](https://github.com/phadd062/Angular-Project).
-- 🥅 My goal this year is to contribute to Open Source projects.
-- 👨‍💻 Actively looking for developer positions.
-
 **Languages and Tools:**  
 <details>
   <summary>:zap: Software Dev</summary>
